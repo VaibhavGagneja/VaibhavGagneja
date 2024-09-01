@@ -18,7 +18,7 @@
 <p align="left">
 <a href="mailto:vaibhavgagneja@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/aditya-kasaudhan/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://x.com/gagneja_vaibhav"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://x.com/gagneja_vaibhav"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 </p>
 
 
