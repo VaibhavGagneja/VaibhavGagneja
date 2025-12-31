@@ -44,10 +44,20 @@ I am a software engineer passionate about building scalable backend systems, mic
 ![](https://github-profile-trophy.vercel.app/?username=VaibhavGagneja&theme=cobalt&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VaibhavGagneja&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavGagneja&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGagneja&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavGagneja&show_icons=true&theme=dark&locale=en" alt="VaibhavGagneja" />
+</p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=VaibhavGagneja&theme=dark" alt="VaibhavGagneja" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VaibhavGagneja&show_icons=true&locale=en&layout=compact&theme=dark" alt="VaibhavGagneja" />
+</p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VaibhavGagneja&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 ---
 <p align="center">
